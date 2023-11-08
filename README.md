@@ -9,7 +9,9 @@
 * Friend connections
 * User discovery
 
-## Technologies Used
+## Technologies and language Used
+* C#
+* Typescript
 * .NET Core
 * Angular
 * SignalR
