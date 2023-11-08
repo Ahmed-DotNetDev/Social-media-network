@@ -1,5 +1,7 @@
 ## Social-media-network
-* social media network application built using SignalR in the .NET ecosystem and an Angular UI. The application allows real-time interactions between users, making it suitable for various social networking and chat applications
+* social media network application built using SignalR in the .NET ecosystem and an Angular UI,authenticatoin and authorization for security. The application allows real-time interactions between users, making it suitable for various social networking and chat applications
+
+
 
 ## Features
 * Real-time messaging and notifications
